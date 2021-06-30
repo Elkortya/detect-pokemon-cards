@@ -1,7 +1,8 @@
 # detect-pokemon-cards
-Automatic detection of position and name of Pokemon card in an image
+Detection of position and name of Pokemon card in a given image.
 
-Usage :  ```python main.py -I path/to/my/img```. Example images to test the script are provided in the ```imgs``` subfolder of this repo.
+Usage :  ```python main.py -I path/to/my/img```. 
+Example images to test the script are provided in the ```imgs``` subfolder of this repo.
 
 Some examples :
 
