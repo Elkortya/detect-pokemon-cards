@@ -1,1 +1,1 @@
-path_debug="../debug"
+path_debug = "../debug"
